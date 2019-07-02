@@ -1,0 +1,3 @@
+검색어 엔진 프로그램입니다.
+'search.txt', 'database.txt'를 팀원들에게 협업받아 완성해봅시다.
+팀원이 2명 이상인 조는 'feature3.txt', 'feature4.txt' 등으로 유연하게 작성해주세요.
